@@ -1,4 +1,4 @@
-- 👋 Hola, reach out @polmoneys | polmoneys@gmail.com
+- 👋 Hola, reach out @polmoneys | polmoneys@protonmail.com
 
 <!---
 polmoneys/polmoneys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
