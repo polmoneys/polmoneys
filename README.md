@@ -1,4 +1,11 @@
-- 👋 Hola, reach out @polmoneys | polmoneys@protonmail.com
+👋 Hola, I write interfaces for the web. 
+
+Currently working with financial data, helping pro users navigate streams of data on dashboards and tables on a React/Typescript codebase. 
+My only dev 🔥 take is that Redux is the only dependency I'll fight for it. 
+
+Experienced in CSS as I started customizing my (Tumblr)[https://storyteller.tumblr.com/] and been using it wildly for years now. 
+
+Reach out @polmoneys | polmoneys@protonmail.com
 
 <!---
 polmoneys/polmoneys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
