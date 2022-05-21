@@ -3,7 +3,7 @@
 Currently working with financial data, helping pro users navigate streams of data on dashboards and tables on a React/Typescript codebase. 
 My only dev 🔥 take is that Redux is the only dependency I'll fight for it to stay in the project for many years to come. 
 
-Experienced in CSS as I started customizing my (Tumblr)[https://storyteller.tumblr.com/] and been using it wildly for years now. 
+Experienced in CSS as I started customizing my [Tumblr](https://storyteller.tumblr.com/) and been using it wildly for years now. 
 
 Reach out @polmoneys | polmoneys@protonmail.com
 
