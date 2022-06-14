@@ -3,7 +3,7 @@
 Currently working with financial data, helping pro users navigate streams of data on dashboards and tables on a React/Typescript codebase. 
 My dev 🔥 take is that Redux is the only dependency I'll fight for it to stay in the project for many years to come. 
 
-My team enjoy working with so most likely you will too. 
+My team enjoy working with me so most likely you will too. 
 
 Reach out @polmoneys | polmoneys@protonmail.com
 
