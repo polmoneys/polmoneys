@@ -1,4 +1,4 @@
-My team enjoy working with me so most likely you will too :)
+
 
 <!---
 polmoneys/polmoneys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
