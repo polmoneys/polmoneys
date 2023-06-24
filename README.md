@@ -30,7 +30,7 @@ Interfaces are made of a wild combination of `materials`, some ideas on our craf
 - Use **gradients for meaning**, as seen in [degradado](https://github.com/polmoneys/degradado).
 
 <sub>Visualizations</sub>
-- SVG **icons with sprite**, as seen in [codesandbox]([https://codesandbox.io/s/icon-svg-sprite-jgppz5?file=/package.json](https://codesandbox.io/s/icon-svg-sprite-jgppz5)).
+- SVG **icons with sprite**, as seen in [codesandbox](https://codesandbox.io/s/icon-svg-sprite-jgppz5).
 - Exploring **picking a seat**, as seen in [hospitality-react](https://github.com/polmoneys/hospitality-react).
 - Exploring **waffle charts**, as seen in [Waffle](https://github.com/polmoneys/Waffle).
 - Exploring **Sparkline charts**, as seen in [Sparkline](https://github.com/polmoneys/Sparkline).
