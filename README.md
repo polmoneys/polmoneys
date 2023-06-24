@@ -22,11 +22,11 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-Interfaces are made of a wild combination of `materials`, some ideas on our craft: 
+Interfaces are made of a wild combination of `materials`, some ideas on craft: 
 
 <sub>Favs</sub>
 - SVG **icons with 'progress'**, as seen in [StrokeDashOffset](https://github.com/polmoneys/StrokeDashoffset).
-- Glue for **interfaces** as seen in [pegamento](https://github.com/polmoneys/pegamento)
+- Glue for **interfaces** as seen in [pegamento](https://github.com/polmoneys/pegamento).
 - Use **gradients for meaning**, as seen in [degradado](https://github.com/polmoneys/degradado).
 
 <sub>Visualizations</sub>
