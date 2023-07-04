@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 <br/>
-🤌🏽 work with financial data, building complex table components and dashboards with React. My team is happy with me so most likely you will too. 
+Mediterranean working for the Swiss, visualizing financial data, building complex table components and dashboards with React. My team is happy with me so most likely you will too. 
 
 <br/>
 <br/>
