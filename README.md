@@ -25,7 +25,7 @@ Mediterranean working for the Swiss, visualizing financial data, building comple
 Interfaces are made of a wild combination of `materials`, some ideas on craft: 
 
 <sub>Favs</sub>
-- HTML and CSS basics for **interfaces** as seen in [non ai CSS](https://github.com/polmoneys/nonai-css).
+- CSS documentation for F.F.F [data-css](https://github.com/polmoneys/data-css).
 - SVG **icons with 'progress'**, as seen in [StrokeDashOffset](https://github.com/polmoneys/StrokeDashoffset).
 - Use **gradients for meaning**, as seen in [degradado](https://github.com/polmoneys/degradado).
 
