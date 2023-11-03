@@ -45,7 +45,7 @@ Interfaces are made of a wild combination of `materials`, some ideas on craft:
 <sub>Hooks</sub>
 - **Array mgmt**, as seen in [useT](https://github.com/polmoneys/useT).
 
-
-
+<sub>Rants</sub>
+- **How to have a ~~fun~~healthy relationship with Git** as a [gist](https://gist.github.com/polmoneys/28c63f2a8b23b82b4b80378f85dfedf8)
 
 
