@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 >
 >**- Wislawa Szymborska**
 
-
-<br/>
 <br/>
 
 `Mediterranean working for the Swiss`. Visualizing financial data, building complex table components and dashboards with **React**.
