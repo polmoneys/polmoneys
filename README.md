@@ -18,9 +18,8 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-`Mediterranean working for the Swiss`. Visualizing financial data, building complex table components and dashboards with **React**. My team is happy with me so most likely you will too. 
+`Mediterranean working for the Swiss`. Visualizing financial data, building complex table components and dashboards with **React**.
 
-<br/>
 <br/>
 
 Interfaces are made of a wild combination of `materials`, some ideas on craft: 
