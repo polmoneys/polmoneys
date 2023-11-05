@@ -28,7 +28,7 @@ Interfaces are made of a wild combination of `materials`, some ideas on craft:
 <sub>Favs</sub>
 - CSS documentation for F.F.F [data-css](https://github.com/polmoneys/data-css).
 - SVG **icons with 'progress'**, as seen in [StrokeDashOffset](https://github.com/polmoneys/StrokeDashoffset).
-- Use **gradients for meaning**, as seen in [degradado](https://github.com/polmoneys/degradado).
+- GSAP powered **knob**, as seen in [knob](https://github.com/polmoneys/knob).
 
 <sub>Visualizations</sub>
 - Exploring **picking a seat**, as seen in [hospitality-react](https://github.com/polmoneys/hospitality-react).
@@ -37,9 +37,9 @@ Interfaces are made of a wild combination of `materials`, some ideas on craft:
 - SVG charts with a playful vibe, as seen in [charts](https://github.com/polmoneys/charts).
 
 <sub>Components</sub>
+- Use **gradients for meaning**, as seen in [degradado](https://github.com/polmoneys/degradado).
 - Exploring **'unusual' table** interactions, as seen in [react-table](https://github.com/polmoneys/react-table).
 - Exploring **drag and drop** (cards, lists...), as seen in [draaaaaag](https://github.com/polmoneys/draaaaaag).
-- GSAP powered **knob**, as seen in [knob](https://github.com/polmoneys/knob).
 - CSS grid wrapper, as seen in [pixel-perfect](https://github.com/polmoneys/pixel-perfect).
 - SVG **icons with sprite**, as seen in [codesandbox](https://codesandbox.io/s/icon-svg-sprite-jgppz5).
 
