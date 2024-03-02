@@ -20,30 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-Interfaces are made of a wild combination of `materials`, some ideas on craft: 
+<sub>News </sub>
 
-<sub>Favs</sub>
-- CSS documentation for F.F.F [data-css](https://github.com/polmoneys/data-css).
-- SVG **icons with 'progress'**, as seen in [StrokeDashOffset](https://github.com/polmoneys/StrokeDashoffset).
-- GSAP powered **knob**, as seen in [knob](https://github.com/polmoneys/knob).
+- Working on v2 of **Sparkline charts**, as seen in [Sparkline](https://github.com/polmoneys/Sparkline).
 
-<sub>Visualizations</sub>
-- Exploring **picking a seat**, as seen in [hospitality-react](https://github.com/polmoneys/hospitality-react).
-- Exploring **waffle charts**, as seen in [Waffle](https://github.com/polmoneys/Waffle).
-- Exploring **Sparkline charts**, as seen in [Sparkline](https://github.com/polmoneys/Sparkline).
-- SVG charts with a playful vibe, as seen in [charts](https://github.com/polmoneys/charts).
 
-<sub>Components</sub>
-- Use **gradients for meaning**, as seen in [degradado](https://github.com/polmoneys/degradado).
-- Exploring **'unusual' table** interactions, as seen in [react-table](https://github.com/polmoneys/react-table).
-- Exploring **drag and drop** (cards, lists...), as seen in [draaaaaag](https://github.com/polmoneys/draaaaaag).
-- CSS grid wrapper, as seen in [pixel-perfect](https://github.com/polmoneys/pixel-perfect).
-- SVG **icons with sprite**, as seen in [codesandbox](https://codesandbox.io/s/icon-svg-sprite-jgppz5).
-
-<sub>Hooks</sub>
-- **Array mgmt**, as seen in [useT](https://github.com/polmoneys/useT).
-
-<sub>Rants</sub>
-- How to have a ~~fun~~ **healthy relationship with Git** as a [gist](https://gist.github.com/polmoneys/28c63f2a8b23b82b4b80378f85dfedf8)
 
 
