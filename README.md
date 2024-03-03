@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<sub>News </sub>
+<sub>Latest </sub>
 
-- Working on v2 of **Sparkline charts**, as seen in [Sparkline](https://github.com/polmoneys/Sparkline).
+- v2-beta of **Sparkline** is out, check [repo](https://github.com/polmoneys/Sparkline).
 
 
 
