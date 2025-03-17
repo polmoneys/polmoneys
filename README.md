@@ -20,9 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<sub>Latest </sub>
 
-- v2-beta of **Sparkline** is out, check [repo](https://github.com/polmoneys/Sparkline).
 
 
 
