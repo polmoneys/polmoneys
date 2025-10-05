@@ -16,11 +16,13 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-Mediterranean working for the Swiss. On github to share joy :) 
+`Mediterranean working for the Swiss. On github to share joy :) `
 
-(With AI agent deployed on prod) my work is/has been on product[*]: helping visualize and interact with financial data which translates into building complex tables, autocomplete components and full experiences like Portfolio simulators, complex Exports, massive Uploads, Funds comparators...our materials are **React**, Typescript, Vite, Eslint, Tanstack query, IndexDB, Yup, Redux, REST & GraphQL, Web sockets, Playwright, Matomo, Sentry, Git, Jira, Confluence, Slack
+my work is on **product**, helping visualize and interact with **financial data** with our own AI agent and interfaces made of complex tables, autocomplete components as well as **advanced experiences** like Portfolio simulators, complex Exports, massive Uploads or Funds comparators.
 
-[*] with a team in two countries and multiple languages
+Our materials are **React**, Typescript, Vite, Eslint, Tanstack query, IndexDB, Yup, Redux, REST & GraphQL, microservices, Web sockets, **Playwright**, Matomo, Sentry, **AWS**, Laravel, **Git**, Gitlab, Jira, Confluence, Slack...
+
+
 
 <br/>
 
