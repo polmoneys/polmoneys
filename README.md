@@ -16,7 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-`Mediterranean working for the Swiss`. Visualizing financial data, building complex table components and dashboards with **React**.
+`Mediterranean working for the Swiss`. 
+
+With AI agents deployed on prod, helping visualize and interact with financial data, building complex tables, autocomplites, portfolio simulators, funds comparators with **React**, Typescript,Vite, Eslint, Tanstack query, Yup, Redux, REST & GraphQL, Playwright, Matomo, Sentry... 
 
 <br/>
 
