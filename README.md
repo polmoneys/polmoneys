@@ -16,9 +16,11 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-`Mediterranean working for the Swiss`. 
+Mediterranean working for the Swiss. On github to share joy :) 
 
-With AI agents deployed on prod, helping visualize and interact with financial data, building complex tables, autocomplites, portfolio simulators, funds comparators with **React**, Typescript,Vite, Eslint, Tanstack query, Yup, Redux, REST & GraphQL, Playwright, Matomo, Sentry... 
+(With AI agent deployed on prod) my work is/has been on product[*]: helping visualize and interact with financial data which translates into building complex tables, autocomplete components and full experiences like Portfolio simulators, complex Exports, massive Uploads, Funds comparators...our materials are **React**, Typescript, Vite, Eslint, Tanstack query, IndexDB, Yup, Redux, REST & GraphQL, Web sockets, Playwright, Matomo, Sentry, Git, Jira, Confluence, Slack
+
+[*] with a team in two countries and multiple languages
 
 <br/>
 
