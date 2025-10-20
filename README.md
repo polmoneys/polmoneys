@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 `Mediterranean working for the Swiss. On github to share joy :) `
 
-my work is on **product**, helping visualize and interact with **financial data** with our own AI agent and interfaces made of complex tables, autocomplete components as well as **advanced experiences** like Portfolio simulators, complex Exports, massive Uploads or Funds comparators.
+my work is on **product**, helping visualise and interact with **financial data** with our own AI agent and interfaces made of complex tables, autocomplete components as well as **advanced experiences** like Portfolio simulators, complex Exports, massive Uploads or Funds comparators.
 
 Our materials are **React**, Typescript, Vite, Eslint, Tanstack query, IndexDB, Yup, Redux, REST & GraphQL, microservices, Web sockets, **Playwright**, Matomo, Sentry, **AWS**, Laravel, **Git**, Gitlab, Jira, Confluence, Slack...
 
